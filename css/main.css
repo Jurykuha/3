@@ -240,7 +240,7 @@ header {
       color: transparent; }
       .header-slider button.slick-next.slick-arrow:hover {
         z-index: 999;
-        cursor: url(/img/slick/arrow-right.png), url(/img/slick/arrow-right.svg), url(/img/arrow-right_1.cur), pointer; }
+        cursor: url(../img/slick/arrow-right.png), url(../img/slick/arrow-right.svg), url(../img/arrow-right_1.cur), pointer; }
     .header-slider button.slick-prev.slick-arrow {
       position: absolute;
       z-index: 999;
@@ -253,7 +253,7 @@ header {
       border: none;
       color: transparent; }
       .header-slider button.slick-prev.slick-arrow:hover {
-        cursor: url(/img/slick/arrow-left.png), url(/img/slick/arrow-left.svg), url(img/arrow-left.cur), pointer; }
+        cursor: url(../img/slick/arrow-left.png), url(../img/slick/arrow-left.svg), url(../img/arrow-left.cur), pointer; }
     .header-slider ul {
       position: absolute;
       top: 90%;
